@@ -9,4 +9,4 @@ should continue to work on making the code more complete and concise.
 4.What do you need to stop or change in your work for this subject overall so far?
 Answer:I always not use descriptive variable names. This is what I need to stop doing.
 5.What is one request you have or change you suggest for this subject and/or your IT degree overall?
-Answer:No, I think it's fine.
+Answer:No, I think it's fine. 
