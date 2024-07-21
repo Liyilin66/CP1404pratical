@@ -25,3 +25,4 @@ def load_projects(filename):
     except FileNotFoundError:
         print(f"Error: The file '{filename}' does not exist.")
     return projects
+
